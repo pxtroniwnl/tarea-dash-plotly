@@ -41,4 +41,4 @@ Para lanzar el dashboard sin necesidad de activar manualmente el entorno, usa:
 
 uv run app.py
 
-3. Abrir el "http://127.0.0.1:8050/" o algo parecido que aparezca
+3. Abrir el "http://127.0.0.1:8050/" o algo parecido que aparezca EN LA TERMINAL
