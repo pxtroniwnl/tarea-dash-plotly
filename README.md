@@ -32,13 +32,8 @@ PROYECTO/
 ## Ejecucion
 
 1. Sincronizar e Instalar Dependencias
-Desde la terminal en la carpeta del proyecto, ejecuta el siguiente comando para preparar el entorno virtual e instalar las librerías: 
+Desde la terminal en la carpeta del proyecto, ejecuta el siguiente comando para preparar el entorno virtual e instalar las librerías EN LA TERMINAL: uv sync
 
-uv sync
-
-2. Ejecutar la Aplicación
-Para lanzar el dashboard sin necesidad de activar manualmente el entorno, usa:
-
-uv run app.py
+2. Ejecutar la Aplicación. Para lanzar el dashboard sin necesidad de activar manualmente el entorno, usar EN LA TERMINAL: uv run app.py
 
 3. Abrir el "http://127.0.0.1:8050/" o algo parecido que aparezca EN LA TERMINAL
