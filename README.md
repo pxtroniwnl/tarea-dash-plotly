@@ -30,17 +30,15 @@ PROYECTO/
 ```
 
 ## Ejecucion
-1. Requisitos
-Tener instalado uv. Si no lo tienes, puedes instalarlo rápidamente con:
 
-2. Sincronizar e Instalar Dependencias
+1. Sincronizar e Instalar Dependencias
 Desde la terminal en la carpeta del proyecto, ejecuta el siguiente comando para preparar el entorno virtual e instalar las librerías: 
-
-uv add dash dash-bootstrap-components plotly pandas geopandas pyogrio 
 
 uv sync
 
-3. Ejecutar la Aplicación
+2. Ejecutar la Aplicación
 Para lanzar el dashboard sin necesidad de activar manualmente el entorno, usa:
 
 uv run app.py
+
+3. Abrir el "http://127.0.0.1:8050/" o algo parecido que aparezca
